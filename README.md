@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Sébastien 👋
 
-I am a C++ developper by trade, but I also like to do some Python & ML stuff!
+I am a C++ developer by trade, but I also like to do some Python & ML stuff!
 
 I'm also interested in blockchain, finance, trading, aeronautics, sports science ... 24 hours a day ain't enough !
 
